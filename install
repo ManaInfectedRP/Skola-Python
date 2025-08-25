@@ -1,0 +1,53 @@
+[33mcommit 09a7df6617cc47864e3bc0be3851d9a5ed01d513[m
+Author: Sebbe <Sebbelarsson9601@gmail.com>
+Date:   Mon Aug 25 04:51:34 2025 +0200
+
+    gitIgnore
+
+ rfe_selector.pkl | 3 [31m---[m
+ 1 file changed, 3 deletions(-)
+
+[33mcommit 583faffa53403a07af5a7a009f5dc8c397ec2f70[m
+Author: Sebbe <Sebbelarsson9601@gmail.com>
+Date:   Mon Aug 25 04:43:00 2025 +0200
+
+    GIT LFS
+
+ rfe_selector.pkl | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
+
+[33mcommit a36a3eac1b4b88d370b67b0eaea82fc83f12c6c1[m
+Author: Sebbe <Sebbelarsson9601@gmail.com>
+Date:   Mon Aug 25 04:38:06 2025 +0200
+
+    Late night Work
+
+ rfe_selector.pkl | Bin [31m72034920[m -> [32m0[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 7f9ae028b08ef7b83bcd176cefbd50a0ebf024e5[m
+Author: Sebbe <Sebbelarsson9601@gmail.com>
+Date:   Mon Aug 25 04:36:25 2025 +0200
+
+    Late night Work
+
+ rfe_selector.pkl | Bin [31m0[m -> [32m72034920[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit a3e0c0d9a530bbd2405882afd3a9662d4e49a59e[m
+Author: Sebbe <Sebbelarsson9601@gmail.com>
+Date:   Fri Aug 22 11:41:48 2025 +0200
+
+    57 minuter senare...
+
+ rfe_selector.pkl | Bin [31m72034920[m -> [32m0[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit a64b78bf19fb2d86eb441a10eb915c0417faaf06[m
+Author: Sebbe <Sebbelarsson9601@gmail.com>
+Date:   Fri Aug 22 11:32:48 2025 +0200
+
+    57 minuter senare...
+
+ rfe_selector.pkl | Bin [31m0[m -> [32m72034920[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
